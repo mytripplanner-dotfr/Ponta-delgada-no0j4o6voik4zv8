@@ -1,0 +1,158 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌋",
+  "titre": "Évasion Relaxante aux Açores : Ponta Delgada en 3 Jours",
+  "budget_total": "850 €",
+  "duree": "3 jours",
+  "temps_vol": "4h10 depuis Paris, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur à Ponta Delgada",
+      "legende": "Après votre vol, prenez le temps de vous installer et de découvrir le charme de Ponta Delgada. Flânez dans ses rues historiques, admirez l'architecture locale et imprégnez-vous de l'atmosphère paisible de la capitale açorienne. Une première journée tout en douceur pour débuter votre séjour.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "🛬 <strong>Arrivée à Ponta Delgada</strong>: Récupération des bagages et transfert vers votre hébergement.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Détendez-vous et préparez-vous pour la découverte de la ville.",
+        "🚶‍♂️ <strong>Balade dans le centre historique</strong>: Explorez les Portas da Cidade, l'église de São Sebastião et la marina. Profitez d'un dîner typique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        },
+        {
+          "nom_recherche": "Portas da Cidade, Ponta Delgada",
+          "categorie": "Monument",
+          "coords": { "lat": 37.7865, "lng": -25.6696 }
+        },
+        {
+          "nom_recherche": "Marina de Ponta Delgada",
+          "categorie": "Port",
+          "coords": { "lat": 37.7870, "lng": -25.6680 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre de Ponta Delgada est très agréable à explorer à pied. Prévoyez des chaussures confortables."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌿",
+      "titre": "Immersion dans la Vallée de Furnas",
+      "legende": "Cette journée est dédiée à la relaxation et à la découverte des merveilles géothermiques de l'île. Plongez dans les eaux chaudes des sources thermales, explorez un jardin botanique luxuriant et savourez une spécialité culinaire unique, cuite par la terre elle-même. Une expérience apaisante et gourmande au cœur de la nature açorienne.",
+      "lieu": "Furnas",
+      "activites": [
+        "🚗 <strong>Route vers Furnas</strong>: Louez une voiture pour la journée et dirigez-vous vers l'est de l'île (environ 45 min de route).",
+        "🌳 <strong>Visite du Parc Terra Nostra</strong>: Détendez-vous dans le grand bassin d'eau thermale ferrugineuse et explorez ce magnifique jardin botanique.",
+        "♨️ <strong>Déjeuner \"Cozido das Furnas\"</strong>: Dégustez ce plat traditionnel cuit sous terre par la chaleur volcanique, une expérience culinaire unique.",
+        "💦 <strong>Bains à Poça da Dona Beija</strong>: Profitez d'autres piscines thermales naturelles, parfaites pour une relaxation profonde en fin de journée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parque Terra Nostra, Furnas",
+          "categorie": "Jardin botanique et sources chaudes",
+          "coords": { "lat": 37.7712, "lng": -25.3130 }
+        },
+        {
+          "nom_recherche": "Caldeiras das Furnas",
+          "categorie": "Sources géothermiques",
+          "coords": { "lat": 37.7730, "lng": -25.3090 }
+        },
+        {
+          "nom_recherche": "Poça da Dona Beija, Furnas",
+          "categorie": "Sources chaudes",
+          "coords": { "lat": 37.7738, "lng": -25.3105 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "♨️",
+          "titre": "Conseil Thermes",
+          "texte": "Les eaux ferrugineuses peuvent tacher les maillots de bain clairs. Prévoyez un maillot de bain foncé ou un vieux maillot."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "La location de voiture est fortement recommandée pour explorer l'île à votre rythme et accéder aux sites naturels."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌊",
+      "titre": "Panoramas de Sete Cidades et Départ",
+      "legende": "Pour votre dernière journée, partez à la découverte des paysages emblématiques de l'ouest de l'île, notamment la célèbre caldeira de Sete Cidades avec ses lacs jumeaux. Profitez de vues à couper le souffle avant de retourner à Ponta Delgada pour un dernier repas et votre vol retour. Une conclusion majestueuse à votre escapade açorienne.",
+      "lieu": "Sete Cidades / Ponta Delgada",
+      "activites": [
+        "🚗 <strong>Exploration de Sete Cidades</strong>: Conduisez vers l'ouest (environ 30 min) pour admirer les lacs vert et bleu depuis le Miradouro da Vista do Rei.",
+        "🚶‍♀️ <strong>Balade autour de Lagoa do Canário</strong>: Profitez d'une douce promenade et du point de vue spectaculaire de Boca do Inferno (accès parfois réglementé).",
+        "🍽️ <strong>Dernier repas à Ponta Delgada</strong>: Savourez les saveurs locales une dernière fois avant de vous diriger vers l'aéroport.",
+        "✈️ <strong>Départ de Ponta Delgada</strong>: Transfert à l'aéroport pour votre vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Vista do Rei, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8590, "lng": -25.7900 }
+        },
+        {
+          "nom_recherche": "Lagoa do Canário, Sete Cidades",
+          "categorie": "Lac",
+          "coords": { "lat": 37.8630, "lng": -25.7800 }
+        },
+        {
+          "nom_recherche": "Miradouro da Boca do Inferno, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8640, "lng": -25.7770 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Météo",
+          "texte": "Le temps aux Açores peut changer rapidement. Prévoyez des couches de vêtements et un imperméable, même en été."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Les points de vue de Sete Cidades sont parmi les plus photographiés. N'oubliez pas votre appareil photo!"
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "368 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "60 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "180 €/pers (environ 60€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "200 €/pers (2 nuits en hôtel 3* base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "40 €/pers (entrées parcs/thermes)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Avril et Octobre (plus calme)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le climat est océanique tempéré. Prévoir des vêtements pour toutes les saisons, même en été (pluie, vent, soleil).", "symbole": "🌦️" },
+    { "titre": "L'euro est la monnaie locale. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "La location de voiture est le meilleur moyen d'explorer l'île. Le permis de conduire français est suffisant.", "symbole": "🚗" },
+    { "titre": "Le portugais est la langue officielle. L'anglais est parlé dans les zones touristiques. Un adaptateur électrique n'est pas nécessaire (prises européennes).", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-PDL/2026-03-10/2026-03-13", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Azores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars.com", "url": "https://www.rentalcars.com/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/pt/otempo/previsao/index.html", "symbole": "🌤️" }
+  ]
+}
